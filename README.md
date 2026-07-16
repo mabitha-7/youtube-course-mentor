@@ -7,6 +7,8 @@ The application extracts video transcripts, converts them into vector embeddings
 
 
 <img width="277" height="410" alt="image" src="https://github.com/user-attachments/assets/cbf89eaf-b872-45bf-ab0c-7624889e67a9" />
+<img width="269" height="371" alt="image" src="https://github.com/user-attachments/assets/a83c2a4b-b59f-4bfb-ac26-7cc3aad2bfb7" />
+
 
 
 ## 🚀 Features
