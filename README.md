@@ -1,9 +1,10 @@
-     **   UMATE**
+
 🎓 AI-Powered YouTube Course Mentor using RAG
 
 An AI-powered learning assistant that transforms YouTube educational videos into an interactive learning experience using Retrieval-Augmented Generation (RAG).
 
 The application extracts video transcripts, converts them into vector embeddings, stores them in a ChromaDB vector database, and retrieves the most relevant content to generate accurate answers using Google Gemini.
+<img width="277" height="410" alt="image" src="https://github.com/user-attachments/assets/cbf89eaf-b872-45bf-ab0c-7624889e67a9" />
 
 
 ## 🚀 Features
